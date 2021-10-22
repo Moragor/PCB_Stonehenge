@@ -1,0 +1,15 @@
+1-24, : 1206 vertical
+32+33: 1206 horizontal
+12+13, 14+15, 17+18: 1206 horizontal on top of standing "stones"
+
+25: 0805 vertical
+54+55: 0805 on its side
+26+27, 28+29, 30+31, 34+35, 65+66: 0805 horizontal
+1+2, 2+3, 1+6, 8+9, 10+11: 0805 horizontal on top of standing "stones"
+
+36+37, 38+39, 48+49, 50+51, 52+53: 0603 Horizontal
+
+40-47, 59-61, 63: 0402 vertical
+68: 0402 horizontal
+
+Round pads: No components, just a dab of solder

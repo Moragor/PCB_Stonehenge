@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# dk_Clock-Timing-Programmable-Timers-and-Oscillators_NE555P
+#
+DEF dk_Clock-Timing-Programmable-Timers-and-Oscillators_NE555P U 0 40 Y Y 1 F N
+F0 "U" -350 250 60 H V L CNN
+F1 "dk_Clock-Timing-Programmable-Timers-and-Oscillators_NE555P" 50 -350 60 H V L CNN
+F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L CNN
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fne555" 200 300 60 H I L CNN
+F4 "296-1411-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "NE555P" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Clock/Timing - Programmable Timers and Oscillators" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fne555" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/NE555P/296-1411-5-ND/277057" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OSC SINGLE TIMER 100KHZ 8-DIP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -350 200 350 -300 0 1 0 f
+X GND 1 0 -400 100 U 50 50 1 1 W
+X TRIG 2 -500 -100 150 R 50 50 1 1 I
+X OUT 3 500 -100 150 L 50 50 1 1 O
+X RESET 4 -500 100 150 R 50 50 1 1 I
+X CONT 5 -500 -200 150 R 50 50 1 1 B
+X THRES 6 -500 0 150 R 50 50 1 1 I
+X DISCH 7 500 0 150 L 50 50 1 1 O
+X VCC 8 0 300 100 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library
